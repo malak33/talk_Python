@@ -4,7 +4,7 @@ print('--------------------------')
 print()
 
 user_text = input(' What is your name?:')
-#print(user_text)d
+#print(user_text)
 greeting = 'Nice to meet you ' + user_text +'!'
 print(greeting)
 
