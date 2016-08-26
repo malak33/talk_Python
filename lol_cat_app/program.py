@@ -1,6 +1,5 @@
 import os
 import platform
-
 import cat_service
 import subprocess
 
@@ -61,8 +60,6 @@ def display_cats(folder):
         subprocess.call(['xdg-open', folder])
     else:
         print("We don't support your os" + platform.system())
-
-
 
 
 if __name__ == '__main__':
