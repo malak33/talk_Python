@@ -7,10 +7,7 @@ def main():
 
 
 def print_header():
-    print('----------------------------------')
-    print('         Journal App   ')
-    print('----------------------------------')
-    print()
+d
 
 
 def run_event_loop():
