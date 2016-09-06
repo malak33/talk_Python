@@ -1,5 +1,3 @@
-
-
 class Purchase:
     def __init__(
             self, city, zipcode, state, beds,
