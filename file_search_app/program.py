@@ -26,7 +26,6 @@ def main():
         print()
 
 
-
 def print_header():
     print('----------------------------------')
     print('         FILE SEARCH APP')
